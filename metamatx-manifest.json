@@ -1,0 +1,8 @@
+{
+  "bookId": "stanford-cs224n",
+  "title": "Stanford CS224N: Natural Language Processing with Deep Learning (Winter 2026)",
+  "sourceRoot": ".",
+  "chapters": [
+    { "chapter": "ch01", "map": "lectures/01-history-of-nlp/concept-map.md" }
+  ]
+}

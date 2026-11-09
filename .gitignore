@@ -1,0 +1,14 @@
+# Working state: never pushed
+work/
+run-record.jsonl
+.viewer-cache/
+
+# Launcher and agent configuration
+.agents/
+.claude/
+.codex/
+.gemini/
+.lets-all-chat/
+.mcp.json
+CLAUDE.local.md
+.DS_Store
