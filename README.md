@@ -2,7 +2,8 @@
 
 Recitation-style notes for Stanford's CS224N, following the **Winter 2026** offering (instructors Diyi Yang and Yejin Choi), one lecture at a time. Each lecture has a section leader's notes, written from the lecture's slides, readings and assignment, and a concept map of every idea it teaches, with the links between them. The course's maps together make up a course knowledge graph.
 
-*The course knowledge graph will appear here: a picture of metamatx's view of the whole course, refreshed as each lecture is published.*
+![The course knowledge graph](images/course-knowledge-graph.png)
+*The course knowledge graph in metamatx's whole-course view, covering 1 of 19 lectures so far (Lecture 1): 69 entries (51 concepts and 18 background notes) with 57 "is needed for" links. The picture is refreshed as each lecture is published.*
 
 ## What the course teaches, and in what order
 
