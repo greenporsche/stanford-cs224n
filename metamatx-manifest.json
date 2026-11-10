@@ -3,6 +3,7 @@
   "title": "Stanford CS224N: Natural Language Processing with Deep Learning (Winter 2026)",
   "sourceRoot": ".",
   "chapters": [
-    { "chapter": "ch01", "map": "lectures/01-history-of-nlp/concept-map.md" }
+    { "chapter": "ch01", "map": "lectures/01-history-of-nlp/concept-map.md" },
+    { "chapter": "ch02", "map": "lectures/02-word-vectors/concept-map.md" }
   ]
 }
