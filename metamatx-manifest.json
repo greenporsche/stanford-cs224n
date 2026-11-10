@@ -5,6 +5,7 @@
   "chapters": [
     { "chapter": "ch01", "map": "lectures/01-history-of-nlp/concept-map.md" },
     { "chapter": "ch02", "map": "lectures/02-word-vectors/concept-map.md" },
-    { "chapter": "ch03", "map": "lectures/03-backpropagation/concept-map.md" }
+    { "chapter": "ch03", "map": "lectures/03-backpropagation/concept-map.md" },
+    { "chapter": "ch04", "map": "lectures/04-language-models-rnns/concept-map.md" }
   ]
 }
